@@ -23,6 +23,13 @@ pst_to_json -s /path/to/file.pst -d /path/to/output.json -d -v
 * `-p` or `--pretty` - pretty formats the output (two spaces)
 * `-h` or `--help`
 
+# Build Your Own
+
+Using `pkg`:
+
+```
+pkg index.js --output _dist/pst_to_json.exe
+```
 
 # Dependencies
 
