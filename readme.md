@@ -9,7 +9,7 @@ Click on the releases tab to download an EXE for Windows.
 # Usage
 
 ```
-pst_to_json -s /path/to/file.pst -d /path/to/output.json -d -v
+pst_to_json -s /path/to/file.pst -d /path/to/output.json -v
 ```
 
 ## Required Parameters
